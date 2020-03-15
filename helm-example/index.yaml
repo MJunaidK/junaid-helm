@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  junaid-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-03-14T22:35:03.1286415-04:00"
+    description: A Helm chart for Kubernetes
+    digest: d212778c4ae26869ac76ce4b8d7a21b2083458380c130d06d8bb4781a6c204bf
+    name: junaid-chart
+    type: application
+    urls:
+    - junaid-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-03-14T22:35:03.112921-04:00"
